@@ -1,0 +1,36 @@
+(function(){
+'use strict';
+if(window.torresCommerceRuntime)return;window.torresCommerceRuntime=true;
+const config=window.TORRES_COMMERCE||{};
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const money=v=>new Intl.NumberFormat('en-CA',{style:'currency',currency:'CAD',maximumFractionDigits:0}).format(v)+' CAD';
+function summary(items){return items.map(x=>[x.product.name,x.metal,x.colour,x.size?'Size / length: '+x.size:'', 'Quantity: '+x.qty].filter(Boolean).join(' · ')).join('\n');}
+function getItems(mode){if(mode==='bag')return window.TorresStore?.getCart()||[];const s=window.TorresStore?.getSelection();return s?[{...s,unitPrice:s.product.pricesByMetal[s.metal]}]:[];}
+function formMarkup(items,kind){return '<div class="torres-inquiry-heading"><div class="eyebrow">Personal guidance</div><h2>Let’s find your piece.</h2><p>Ask about a design, get help with sizing, or talk through your selection.</p></div>'+(items.length?'<div class="torres-selection-note"><strong>Your selection</strong><p>'+esc(summary(items)).replace(/\n/g,'<br>')+'</p></div>':'')+'<form class="torres-inquiry-form"><input type="hidden" name="inquiry_type" value="'+esc(kind||'general')+'"><input type="hidden" name="selection" value="'+esc(summary(items))+'"><div class="torres-form-grid"><label>Your name<input name="name" autocomplete="name" required></label><label>Email address<input type="email" name="email" autocomplete="email" required></label><label>Phone · optional<input type="tel" name="phone" autocomplete="tel"></label><label>Occasion date · optional<input type="date" name="occasion_date"></label></div><label>How can we help?<textarea name="message" rows="4" required placeholder="Tell us what you like, what you’re unsure about, or the date you have in mind."></textarea></label><details class="torres-optional"><summary>Add a budget or reference link · optional</summary><div class="torres-form-grid"><label>Budget in CAD<input type="number" name="budget" min="0" inputmode="decimal"></label><label>Inspiration link<input type="url" name="reference_url" placeholder="https://"></label></div></details><p class="inventory-fineprint">Your contact details are for responding to this inquiry. This form does not sign you up for marketing.</p><button type="submit" class="btn btn-dark">Send My Inquiry</button><p class="torres-form-status" role="status" aria-live="polite">Preview: sending is not connected yet. No request will be sent.</p></form>';}
+function activateForm(host,items,kind){
+ const url=config.ghlFormUrl;
+ if(url){try{const parsed=new URL(url);if(parsed.protocol==='https:'){host.innerHTML='<div class="torres-selection-note"><h2>Ask Torres Diamonds</h2>'+(items.length?'<p>'+esc(summary(items)).replace(/\n/g,'<br>')+'</p><p>Include this selection in your message below.</p>':'')+'</div><iframe class="torres-ghl-form" title="Torres Diamonds inquiry form" src="'+esc(parsed.href)+'" loading="lazy"></iframe>';return;}}catch(e){}}
+ host.innerHTML=formMarkup(items,kind);
+ host.querySelector('form').addEventListener('submit',e=>{e.preventDefault();host.querySelector('.torres-form-status').textContent='This preview does not send inquiries yet. Your information has not been submitted or saved.';});
+}
+function init(){
+ const root=document.querySelector('#torres-site')||(location.hostname==='sites.leadconnectorhq.com'?null:document.body);if(!root)return;
+ root.querySelectorAll('[data-torres-inquiry-form]').forEach(host=>{if(!host.dataset.torresFormReady){host.dataset.torresFormReady='true';activateForm(host,[],host.dataset.torresInquiryForm);}});
+ if(root.dataset.torresCommerce)return;root.dataset.torresCommerce='true';
+ const modal=document.createElement('dialog');modal.className='inventory-dialog torres-commerce-dialog';modal.setAttribute('aria-label','Torres Diamonds personal guidance');modal.innerHTML='<div class="inventory-dialog-head"><span>TORRES DIAMONDS</span><button class="inventory-dialog-close" type="button" data-commerce-close aria-label="Close"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5 5L19 19M19 5L5 19"/></svg></button></div><div class="torres-commerce-body"></div>';root.append(modal);
+ let focus=null;
+ function open(){if(modal.open){modal.querySelector('input,button')?.focus();return;}focus=document.activeElement;root.querySelectorAll('dialog[open]').forEach(d=>d.close());modal.showModal();}
+ modal.querySelector('[data-commerce-close]').addEventListener('click',()=>modal.close());modal.addEventListener('close',()=>{if(focus?.isConnected)focus.focus();});
+ root.addEventListener('click',event=>{
+  const inquiry=event.target.closest('[data-torres-inquire]');if(inquiry){event.preventDefault();activateForm(modal.querySelector('.torres-commerce-body'),getItems(inquiry.dataset.torresInquire),inquiry.dataset.torresInquire==='bag'?'selection':'product');open();return;}
+  if(event.target.closest('[data-torres-review]')){
+   const items=getItems('bag');if(!items.length)return;
+   const total=items.reduce((sum,x)=>sum+x.unitPrice*x.qty,0);
+   modal.querySelector('.torres-commerce-body').innerHTML='<div class="eyebrow">Your selection</div><h2>One last look.</h2><p>Check the details before continuing.</p>'+items.map(x=>'<article class="torres-review-item"><img src="'+esc(x.product.photos[0])+'" alt="'+esc(x.product.name)+'"><div><h3>'+esc(x.product.name)+'</h3><p>'+esc([x.metal,x.colour,x.size].filter(Boolean).join(' · '))+'</p><p>Quantity '+x.qty+' · '+money(x.unitPrice)+' each</p>'+(x.product.draftNote?'<p class="inventory-fineprint">'+esc(x.product.draftNote)+'</p>':'')+'</div></article>').join('')+'<div class="inventory-cart-total"><span>Subtotal</span><strong>'+money(total)+'</strong></div><p class="inventory-fineprint">Before sales tax. Delivery charges and any applicable promotion will be confirmed at checkout.</p><button type="button" class="btn btn-dark" disabled style="width:100%">Secure Checkout · Coming Soon</button><p class="inventory-fineprint">Online checkout opens when our store launches. No payment is taken in this preview.</p><button type="button" class="btn btn-outline" data-torres-inquire="bag" style="width:100%">Ask About This Selection</button>';open();
+  }
+ });
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+document.addEventListener('hydrationDone',init);
+if(document.body)new MutationObserver(init).observe(document.body,{childList:true,subtree:true});
+})();

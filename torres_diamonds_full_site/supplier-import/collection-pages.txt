@@ -1,0 +1,484 @@
+Internal Error ()
+【turn642605view0】 [wordlim: 200] Source: open({"ref_id":"https://www.dracodiamond.com/collections/all?page=1","lineno":null}); Total lines: 1
+L0: URL https://www.dracodiamond.com/collections/all?page=1 is not accessible via this tool.
+
+--------------------------------------------------------------------------------
+Shop All Lab Diamond Jewelry | IGI Certified | Draco Diamond – Page 2 (https://www.dracodiamond.com/collections/all?page=2)
+【turn642605view1】 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.dracodiamond.com/collections/all?page=2","lineno":null}); Total lines: 472
+L0: 【0†Skip to content】
+L1: 
+L2: 【1†Draco Diamond】 Navigation menu
+L3: 
+L4:   * Shop
+L5:     * 【2†Engagement Rings】
+L6:     * 【3†Bridal Sets】
+L7:     * Tennis
+L8: 
+L9:       * 【4†Bracelet】
+L10:       * 【5†Chain】
+L11:     * 【6†Women's Rings】
+L12:     * 【7†Men's Rings】
+L13:     * 【8†Earrings】
+L14:     * 【9†Pendants】
+L15:     * 【10†Necklaces】
+L16:     * 【11†Under $2000】
+L17:     * 【12†Shop All】
+L18: 
+L19:   * 【13†Image: Canada†cdn.shopify.com】CAD $
+L20: 
+L21: Country
+L22: [Input][Input][Input][Input]【14†Image: Australia†cdn.shopify.com】Australia (AUD $) 【15†Image: Austria†cdn.shopify.com】Austria (EUR €) 【16†Image: Belgium†cdn.shopify.com】Belgium (EUR €) 【13†Image: Canada†cdn.shopify.com】Canada (CAD $) 【17†Image: Czechia†cdn.shopify.com】Czechia (CZK Kč) 【18†Image: Denmark†cdn.shopify.com】Denmark (DKK kr.) 【19†Image: Finland†cdn.shopify.com】Finland (EUR €) 【20†Image: France†cdn.shopify.com】France (EUR €) 【21†Image: Germany†cdn.shopify.com】Germany (EUR €) 【22†Image: Hong Kong SAR†cdn.shopify.com】Hong Kong SAR (HKD $) 【23†Image: Ireland†cdn.shopify.com】Ireland (EUR €) 【24†Image: Israel†cdn.shopify.com】Israel (ILS ₪) 【25†Image: Italy†cdn.shopify.com】Italy (EUR €) 【26†Image: Japan†cdn.shopify.com】Japan (JPY ¥) 【27†Image: Malaysia†cdn.shopify.com】Malaysia (MYR RM) 【28†Image: Netherlands†cdn.shopify.com】Netherlands (EUR €) 【29†Image: New Zealand†cdn.shopify.com】New Zealand (NZD $) 【30†Image: Norway†cdn.shopify.com】Norway (CAD $) 【31†Image: Poland†cdn.shopify.com】Poland (PLN zł) 【32†Image: Portugal†cdn.shopify.com】Portugal (EUR €) 【33†Image: Singapore†cdn.shopify.com】Singapore (SGD $) 【34†Image: Spain†cdn.shopify.com】Spain (EUR €) 【35†Image: Sweden†cdn.shopify.com】Sweden (SEK kr) 【36†Image: Switzerland†cdn.shopify.com】Switzerland (CHF CHF) 【37†Image: United Arab Emirates†cdn.shopify.com】United Arab Emirates (AED د.إ) 【38†Image: United Kingdom†cdn.shopify.com】United Kingdom (GBP £) 【39†Image: United States†cdn.shopify.com】United States (USD $)
+L23:   *   * 【40†Search】
+L24:   * 【41†Cart】
+L25: 
+L26: [Input: Search for...] Close
+L27: 
+L28:   * Shop
+L29:   * The Vault
+L30:   * About
+L31:   * 【42†Ring Builder】
+L32:   * 【43†Custom & Quotes】
+L33: 
+L34: Login
+L35: 
+L36: 【13†Image: Canada†cdn.shopify.com】CAD $
+L37: 
+L38: Country
+L39: [Input][Input][Input][Input]【14†Image: Australia†cdn.shopify.com】Australia (AUD $) 【15†Image: Austria†cdn.shopify.com】Austria (EUR €) 【16†Image: Belgium†cdn.shopify.com】Belgium (EUR €) 【13†Image: Canada†cdn.shopify.com】Canada (CAD $) 【17†Image: Czechia†cdn.shopify.com】Czechia (CZK Kč) 【18†Image: Denmark†cdn.shopify.com】Denmark (DKK kr.) 【19†Image: Finland†cdn.shopify.com】Finland (EUR €) 【20†Image: France†cdn.shopify.com】France (EUR €) 【21†Image: Germany†cdn.shopify.com】Germany (EUR €) 【22†Image: Hong Kong SAR†cdn.shopify.com】Hong Kong SAR (HKD $) 【23†Image: Ireland†cdn.shopify.com】Ireland (EUR €) 【24†Image: Israel†cdn.shopify.com】Israel (ILS ₪) 【25†Image: Italy†cdn.shopify.com】Italy (EUR €) 【26†Image: Japan†cdn.shopify.com】Japan (JPY ¥) 【27†Image: Malaysia†cdn.shopify.com】Malaysia (MYR RM) 【28†Image: Netherlands†cdn.shopify.com】Netherlands (EUR €) 【29†Image: New Zealand†cdn.shopify.com】New Zealand (NZD $) 【30†Image: Norway†cdn.shopify.com】Norway (CAD $) 【31†Image: Poland†cdn.shopify.com】Poland (PLN zł) 【32†Image: Portugal†cdn.shopify.com】Portugal (EUR €) 【33†Image: Singapore†cdn.shopify.com】Singapore (SGD $) 【34†Image: Spain†cdn.shopify.com】Spain (EUR €) 【35†Image: Sweden†cdn.shopify.com】Sweden (SEK kr) 【36†Image: Switzerland†cdn.shopify.com】Switzerland (CHF CHF) 【37†Image: United Arab Emirates†cdn.shopify.com】United Arab Emirates (AED د.إ) 【38†Image: United Kingdom†cdn.shopify.com】United Kingdom (GBP £) 【39†Image: United States†cdn.shopify.com】United States (USD $)
+L40: Shop
+L41: 
+L42:   * 【2†Engagement Rings】
+L43:   * 【3†Bridal Sets】
+L44:   * Tennis
+L45: 
+L46: 【4†Bracelet】【5†Chain】
+L47: 
+L48:   * 【6†Women's Rings】
+L49:   * 【7†Men's Rings】
+L50:   * 【8†Earrings】
+L51:   * 【9†Pendants】
+L52:   * 【10†Necklaces】
+L53:   * 【11†Under $2000】
+L54:   * 【12†Shop All】
+L55: 
+L56: The Vault
+L57: 
+L58:   * 【44†Privileged Pairs】
+L59:   * 【45†Founder Pricing】
+L60:   * 【46†Private Access】
+L61: 
+L62: About
+L63: 
+L64:   * 【47†About】
+L65:   * 【48†Journal】
+L66:   * 【49†Contact】
+L67: 
+L68: Cart
+L69: 
+L70: Your cart is empty
+L71: 
+L72: [Button: Filter ]
+L73: 
+L74: Sort by
+L75: 
+L76: Sort by
+L77: Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old
+L78: 
+L79: 164 products
+L80: 
+L81: Filters
+L82: 
+L83: [Input]
+L84: 
+L85: Availability
+L86: 
+L87: [Input] In stock only
+L88: 
+L89: Price
+L90: 
+L91: [Input] [Input]
+L92: 
+L93: $ [Input: 0] to $ [Input: 28002]
+L94: 
+L95: [Button: View results]
+L96: 
+L97: [Button: View results]
+L98: 
+L99: [Input]
+L100: 
+L101: Availability
+L102: 
+L103: [Input] In stock only
+L104: 
+L105: Price
+L106: 
+L107: [Input] [Input]
+L108: 
+L109: $ [Input: 0] to $ [Input: 28002]
+L110: 
+L111: [Button: View results]
+L112: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L113: 
+L114: 【50†Princess Cut Lab Grown Diamond Stud Earrings | 2ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,399.00
+L115: 
+L116: (4.6)
+L117: 
+L118: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L119: 
+L120: 【51†Ruby & Lab Grown Diamond Tennis Bracelet | 14ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,799.00
+L121: 
+L122: (4.8)
+L123: 
+L124: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L125: 【52†Sapphire & Lab Grown Diamond Tennis Bracelet | 6ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,499.00
+L126: 
+L127: (4.8)
+L128: 
+L129: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L130: 
+L131: 【53†Lab Grown Diamond Crossover Wrap Ring | 2ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,899.00
+L132: 
+L133: (5.0)
+L134: 
+L135: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L136: 【54†Marquise Lab Grown Diamond Leaf Motif Ring | 0.6ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,389.00
+L137: 
+L138: (4.3)
+L139: 
+L140: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L141: 
+L142: 【55†Ruby & Lab Grown Diamond Five-Stone Ring | 3.4ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,100.00
+L143: 
+L144: (5.0)
+L145: 
+L146: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L147: 【56†Sapphire & Lab Grown Diamond Pavé Eternity Ring | 2.7ct TW | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,899.00
+L148: 
+L149: (5.0)
+L150: 
+L151: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L152: 
+L153: 【57†The Clover | 24.54ct Lab Grown Diamond Pear Cluster Tennis Bracelet | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$5,899.00
+L154: 
+L155: (4.6)
+L156: 
+L157: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L158: 【58†1ct Lab Grown Diamond Clover Pendant Necklace | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,854.00
+L159: 
+L160: (5.0)
+L161: 
+L162: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L163: 
+L164: 【59†9ct Pear Lab Grown Diamond Tennis Necklace | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$6,038.00
+L165: 
+L166: (5.0)
+L167: 
+L168: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L169: 
+L170: 【60†3ct Mixed Shape Lab Grown Diamond Cluster Necklace | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,499.00
+L171: (5.0)
+L172: 
+L173: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L174: 
+L175: 【61†Two Stone Pear Lab Grown Diamond Ring | 1ct | Toi et Moi Design | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,081.00
+L176: 
+L177: (5.0)
+L178: 
+L179: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L180: 
+L181: 【62†2.25ct Toi et Moi Pear & Heart Pavé Lab Grown Diamond Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,999.00
+L182: 
+L183: (5.0)
+L184: 
+L185: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L186: 【63†2ct Toi et Moi Pear & Round Lab Grown Diamond Bypass Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,899.00
+L187: 
+L188: (5.0)
+L189: 
+L190: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L191: 
+L192: 【64†1ct Toi et Moi Pear-Shaped Lab Grown Diamond Bypass Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,501.00
+L193: 
+L194: (5.0)
+L195: 
+L196: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L197: 【65†3.5ct Seven Stone Oval Cut Lab Grown Diamond Anniversary Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,390.00
+L198: 
+L199: (5.0)
+L200: 
+L201: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L202: 
+L203: 【66†1ct Seven Stone Oval Cut Lab Grown Diamond Anniversary Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,488.00
+L204: 
+L205: (5.0)
+L206: 
+L207: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L208: 【67†0.18ct Flush Fit French Pavé Lab Grown Diamond Wedding Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,040.00
+L209: 
+L210: (5.0)
+L211: 
+L212: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L213: 
+L214: 【68†2ct Low Dome Basket Lab Grown Diamond Eternity Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,488.00
+L215: 
+L216: (4.9)
+L217: 
+L218: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L219: 【69†0.21ct Tapered Pavé Lab Grown Diamond Wedding Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,089.00
+L220: 
+L221: (5.0)
+L222: 
+L223: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L224: 
+L225: 【70†1ct Seven Stone Emerald Cut Lab Grown Diamond Anniversary Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,488.00
+L226: 
+L227: (4.9)
+L228: 
+L229: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L230: 【71†0.39ct Marquise & Round Alternating Lab Grown Diamond Band | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,038.00
+L231: 
+L232: (5.0)
+L233: 
+L234: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L235: 
+L236: 【72†0.12ct Curved Floral Marquise Lab Grown Diamond Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$949.00
+L237: 
+L238: (4.4)
+L239: 
+L240: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L241: 【73†1ct Seven Stone Round Cut Lab Grown Diamond Anniversary Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,488.00
+L242: 
+L243: (4.5)
+L244: 
+L245: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L246: 
+L247: 【74†2.5ct Elongated Radiant Lab Grown Diamond Engagement Ring | F VS1 | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,481.00
+L248: 
+L249: (4.9)
+L250: 
+L251: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L252: 【75†Cuban Link Lab Grown Diamond Ring 0.30ct | VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,354.00
+L253: 
+L254: (5.0)
+L255: 
+L256: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L257: 
+L258: 【76†1.15ct Lab Grown Diamond Semi-Eternity Ring | VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,399.00
+L259: 
+L260: (4.6)
+L261: 
+L262: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L263: 【77†0.20ct Greek Key Lab Grown Diamond Pendant | VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,201.00
+L264: 
+L265: (5.0)
+L266: 
+L267: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L268: 
+L269: 【78†2ct Pear Cut Lab Grown Diamond Halo Engagement Ring | VS2 | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,801.00
+L270: 
+L271: (4.5)
+L272: 
+L273: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L274: 【79†7.8ct Princess Cut Lab Grown Diamond Tennis Bracelet | VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$3,560.00
+L275: 
+L276: (4.7)
+L277: 
+L278: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L279: 
+L280: 【80†0.30ct Lab Grown Diamond Trinity Engagement Ring | 3-Stone VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,028.00
+L281: 
+L282: (4.9)
+L283: 
+L284: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L285: 【81†59.5ct Lab Grown Diamond Tennis Necklace | Round VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$28,002.00
+L286: 
+L287: (4.7)
+L288: 
+L289: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L290: 
+L291: 【82†2.25ctw Radiant Cut VS2+ Lab Grown Diamond Solitaire Ring in 14K Gold | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,899.00
+L292: 
+L293: (4.9)
+L294: 
+L295: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L296: 【83†0.40ct Fancy Pink VS2+ Lab Grown Diamond Drop Earrings in 14K White Gold | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$980.00
+L297: 
+L298: (4.8)
+L299: 
+L300: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L301: 
+L302: 【84†0.60ct Halo Lab Grown Diamond Pendant Necklace in 14K Gold | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,199.00
+L303: 
+L304: (5.0)
+L305: 
+L306: Sold out
+L307: 
+L308: 【85†Draco Diamond Hat】 Sale price$29.99
+L309: 
+L310: (5.0)
+L311: 
+L312: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L313: 【86†1.4ct Cognac Lab Grown Diamond Band Ring | Round VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,601.00
+L314: 
+L315: (5.0)
+L316: 
+L317: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L318: 
+L319: 【87†1.25ct Lab Grown Diamond hip ankh pendant in 10K yellow gold - Draco Diamond | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,999.00
+L320: 
+L321: (4.7)
+L322: 
+L323: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L324: 【88†0.12ct Lab Grown Diamond Stackable Band | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$901.00
+L325: 
+L326: (5.0)
+L327: 
+L328: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L329: 
+L330: 【89†1.8ct Multi-Color Lab Grown Diamond Band | Cognac & Blue | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,964.00
+L331: 
+L332: (5.0)
+L333: 
+L334: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L335: 
+L336: 【90†0.35ct Lab Grown Diamond Stackable Band | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$981.00
+L337: 
+L338: (4.8)
+L339: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L340: 
+L341: 【91†1.1ct Lab Grown Diamond Right Hand Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,801.00
+L342: 
+L343: (4.8)
+L344: 
+L345: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L346: 
+L347: 【92†1.5ct Cognac Lab Grown Diamond Heart Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,955.00
+L348: 
+L349: (5.0)
+L350: 
+L351: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L352: 【93†0.25ct Blue Lab Grown Diamond Cluster Ring | VS2+ | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,022.00
+L353: 
+L354: (5.0)
+L355: 
+L356: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L357: 
+L358: 【94†1.75ct Canary Yellow Lab Grown Diamond Cluster Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$2,201.00
+L359: 
+L360: (5.0)
+L361: 
+L362: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L363: 【95†1.2ct Lab Grown Yellow Diamond Fashion Ring | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,901.00
+L364: 
+L365: (4.8)
+L366: 
+L367: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L368: 
+L369: 【96†1.90ct Pear Lab Grown Diamond Engagement Ring | Marquise & Round Accents | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,999.00
+L370: 
+L371: (5.0)
+L372: 
+L373: [Input][Input][Input] [Input] [Input] Add to cart[Input][Input]
+L374: 【97†0.50ct Lab Grown Diamond Shoelace Buckles | VS1 DEF Certified | Premium Sneaker Lace Lock | Draco Diamond Street Luxury | Silver, 10K-18K Gold & Platinum | Draco Diamond】 Sale price$1,299.00
+L375: 
+L376: (5.0)
+L377: ## Where to buy lab grown diamond jewellery
+L378: 
+L379: You buy it here. This is the complete Draco Diamond catalogue, 170 pieces sold direct by a Canadian brand with free insured worldwide shipping to 25 markets. Prices run from 711 CAD for 1ctw round cut studs to 28,002 CAD for the 59.5ct tennis necklace, and every white diamond is IGI certified E to F colour, VS2 and better.
+L380: ## How the catalogue is organised
+L381: 
+L382:   * 【6†Rings】. 75 women's rings, 59 【2†engagement rings】, 22 men's rings. Solitaire, three stone, toi et moi, halo, eternity, wedding band.
+L383:   * 【4†Bracelets】. 16 tennis designs, 3 carat total weight to 24.54ct, all on a safety latch clasp.
+L384:   * 【8†Earrings】. 16 designs. Studs 1ctw to 4ctw, plus hoops and drops.
+L385:   * 【9†Pendants】. 16 designs. One focal stone or motif.
+L386:   * 【10†Necklaces】. 17 designs. Tennis lines, graduated V shapes, Y drop lariats.
+L387: ## How to choose a category
+L388: 
+L389: Start with the occasion, not the carat. Engagement and wedding sit in rings. A first serious gift lands on studs or a pendant. A milestone lands on a tennis bracelet or a tennis necklace, where total carat weight does the work.
+L390: 
+L391: Then set the band. 65 pieces sit under 2,000 CAD in the 【11†entry collection】. Above that the catalogue moves into larger centre stones and multi row pieces.
+L392: Then read the grading. White diamonds are IGI certified E to F colour, VS2 and better. Fancy colour stones, including pink, vivid blue, canary yellow and cognac, are graded on the fancy colour scale instead. Designs pairing diamonds with black onyx, ruby or sapphire name those stones in the title. One merchandise item, the Draco cap, is not jewellery.
+L393: ## What it costs
+L394: 
+L395: Entry is 711 CAD for the 1ctw round cut studs, 801 CAD emerald cut, 901 CAD for a stackable band. Pendants open at 1,199 CAD, engagement rings at 1,028 CAD, tennis bracelets at 1,901 CAD, and the upper catalogue runs to 28,002 CAD. Regular prices, not sale prices.
+L396: ## What comes with every piece
+L397: 
+L398: 30 day returns (customer pays return shipping, full refund, no restocking fee), Lifetime Authenticity Guarantee, free ring resizing, free insured worldwide shipping to 25 markets, signature on delivery, IGI certified E to F colour VS2 and better. Draco holds 4.8 out of 5 across 865 verified reviews.
+L399: 
+L400: ## Catalogue questions, answered
+L401: ### Where can I buy lab grown diamond jewellery in Canada?
+L402: 
+L403: Draco Diamond sells direct from Canada: 170 pieces from 711 CAD, shipped free and insured to 25 markets.
+L404: 
+L405: ### How much does lab grown diamond jewellery cost?
+L406: 
+L407: At Draco, 711 CAD for 1ctw round cut studs at entry, rising to 28,002 CAD for the 59.5ct tennis necklace. 65 pieces sit under 2,000 CAD. Regular prices, not sale prices.
+L408: ### Is every piece IGI certified?
+L409: 
+L410: Every white diamond piece is IGI certified E to F colour, VS2 and better. Fancy colour stones such as pink, blue and yellow are graded on the fancy colour scale instead. Designs setting onyx, ruby or sapphire name those stones in the title.
+L411: 
+L412: ### Which category should I start with?
+L413: 
+L414: Start with the occasion. Engagement and wedding go to rings. A first serious gift lands on studs or a pendant. A milestone lands on a tennis bracelet or a tennis necklace.
+L415: ### Can I choose the metal, and can I return it?
+L416: 
+L417: Every design is offered in silver, 10K to 18K gold, and platinum. Ring resizing is free, one complimentary resize within 60 days of delivery. Returns run 30 days for a full refund with no restocking fee. The customer pays return shipping.
+L418: ## Further reading
+L419: 
+L420:   * 【98†Where to buy lab diamonds online, and how to judge a seller】
+L421:   * 【99†How to read an IGI certificate and compare diamond prices】
+L422:   * 【100†What lab diamonds cost per carat in 2026】
+L423: 
+L424: Customers rate us 4.8/5 based on 873 reviews.
+L425: 
+L426: Draco Diamond · The standards
+L427: ## What stays the same on every piece.
+L428: 
+L429:   * ### IGI Certified
+L430: 
+L431: Every diamond independently graded by the International Gemological Institute. The certificate ships with your piece.
+L432: 
+L433:   * ### Source Pricing
+L434: 
+L435: No wholesale intermediaries. No showrooms. No markup built into the listed price.
+L436: 
+L437:   * ### Lifetime Warranty
+L438: 
+L439: Every Draco piece guaranteed to match its IGI certificate. If that is ever in question Draco makes it right at no cost.
+L440: 
+L441:   * ### 30 Day Returns
+L442: Unworn pieces accepted within 30 days. Full refund. No restocking fee.
+L443: 
+L444: Shop
+L445: 
+L446:   * 【40†Search】
+L447:   * 【101†Shop】
+L448: 
+L449: Service
+L450: 
+L451:   * 【49†Contact】
+L452:   * 【102†Refunds & Returns】
+L453:   * 【103†Privacy Policy】
+L454:   * 【104†Terms of Service】
+L455: 
+L456: Company
+L457: 
+L458:   * 【47†About】
+L459:   * 【105†Press】
+L460: 
+L461: About
+L462: 
+L463: Draco Diamond is a Canadian lab grown diamond brand built on transparency. Every piece is IGI certified and benchmarked against Blue Nile and James Allen retail.
+L464: 
+L465: 【13†Image: Canada†cdn.shopify.com】Canada (CAD $)
+L466: 
+L467: Country
+
+--------------------------------------------------------------------------------
+Internal Error ()
+【turn642605view2】 [wordlim: 200] Source: open({"ref_id":"https://www.dracodiamond.com/collections/all?page=3","lineno":null}); Total lines: 1
+
+--------------------------------------------------------------------------------
+Shop All Lab Diamond Jewelry | IGI Certified | Draco Diamond – Page 4 (https://www.dracodiamond.com/collections/all?page=4)
+【turn642605view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.dracodiamond.com/collections/all?page=4","lineno":null}); Total lines: 300
+

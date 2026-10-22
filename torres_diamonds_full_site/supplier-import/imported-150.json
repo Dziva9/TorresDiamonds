@@ -1,0 +1,102 @@
+[
+  {
+    "link": 51,
+    "title": "3 ctw VS2+ Lab Grown Diamond Tennis Bracelet | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$2,201.00",
+    "collection": "https://www.dracodiamond.com/collections/bracelets",
+    "index": 150,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 55,
+    "title": "5ct Lab Grown Diamond Tennis Bracelet | Round & Pear Cut | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$3,201.00",
+    "collection": "https://www.dracodiamond.com/collections/bracelets",
+    "index": 151,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 53,
+    "title": "4.3ct Lab Grown Diamond Heart Pendant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$2,870.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 152,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 54,
+    "title": "2.1ct Lab Grown Diamond Angel Wing Pendant | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$1,999.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 153,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 55,
+    "title": "1.1ct Lab Grown Diamond Cross Pendant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$1,211.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 154,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 56,
+    "title": "1.9ct Lab Grown Diamond Dog Tag Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$1,888.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 155,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 57,
+    "title": "8.25ct Lab Grown Diamond Gaming Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$3,603.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 156,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 58,
+    "title": "4ct Lab Grown Diamond Bando House Pendant | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$2,555.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 157,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 59,
+    "title": "7ct Lab Grown Diamond Boxing Gloves Pendant & Chain | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$3,777.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 158,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 60,
+    "title": "3.1ct Lab Grown Diamond Bunny Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$1,999.00",
+    "collection": "https://www.dracodiamond.com/collections/pendants",
+    "index": 159,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "link": 63,
+    "title": "2ct Lab Grown Diamond Pendant | Fancy Vivid Red Oval | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$2,499.00",
+    "collection": "https://www.dracodiamond.com/collections/necklace",
+    "index": 170,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 64,
+    "title": "1ct Lab Grown Diamond Butterfly Pendant | Necklace Round Brilliant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$1,511.00",
+    "collection": "https://www.dracodiamond.com/collections/necklace",
+    "index": 171,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  },
+  {
+    "link": 65,
+    "title": "5ct Lab Grown Diamond V Necklace | Graduated Round Brilliant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+    "price": "$3,994.00",
+    "collection": "https://www.dracodiamond.com/collections/necklace",
+    "index": 172,
+    "photos": [],
+    "imageRefs": [],
+    "raw": "tool call error: tool call failed for `codex_apps/search_service.web_run`\n\nCaused by:\n    Transport send error: Transport [codex_rmcp_client::event_notification_transport::EventNotificationTransport<rmcp::transport::worker::WorkerTransport<rmcp::transport::streamable_http_client::StreamableHttpClientWorker<codex_rmcp_client::http_client_adapter::StreamableHttpClientAdapter>>>] error: Client error: HTTP request failed: http/request failed: error sending request for url (https://chatgpt.com/backend-api/ps/mcp)"
+  }
+]

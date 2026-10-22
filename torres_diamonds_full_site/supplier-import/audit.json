@@ -1,0 +1,240 @@
+{
+  "imported_records": 181,
+  "unique_products_with_photos": 139,
+  "deduplicated_records": 6,
+  "photos": 408,
+  "by_category": {
+    "engagement": 27,
+    "rings": 53,
+    "tennis": 20,
+    "earrings": 17,
+    "chains": 19,
+    "custom": 3
+  },
+  "historical_links_not_imported": [
+    {
+      "index": 83,
+      "title": "Draco Diamond Hat",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 85,
+      "title": "1.25ct Lab Grown Diamond hip ankh pendant in 10K yellow gold - Draco Diamond | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 95,
+      "title": "0.50ct Lab Grown Diamond Shoelace Buckles | VS1 DEF Certified | Premium Sneaker Lace Lock | Draco Diamond Street Luxury | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 104,
+      "title": "6ct Lab Grown Diamond Ring | Baguette | Statement | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 120,
+      "title": "Cuban Link Ring | Solid Gold | Unisex Band | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 123,
+      "title": "3ct Lab Grown Diamond Cuban Weave Band | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 124,
+      "title": "2.55ct Lab Grown Diamond Crimson Thorns Ring | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 125,
+      "title": "4ct Lab Grown Diamond Broken Heart Ring | IGI Certified VS1 | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 126,
+      "title": "4.5ct Lab Grown Diamond Weave Ring | Baguette & Round | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 130,
+      "title": "5.05ct Lab Diamond Cross Ring | IGI Certified VS | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 133,
+      "title": "9.01ct Lab Diamond Cross Ring | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 134,
+      "title": "4.5ct Lab Diamond Weave Ring | Baguette & Round | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 135,
+      "title": "10.01ct Lab Diamond Jesus Head Ring | IGI Certified VVS1 VS1 | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 136,
+      "title": "4ct Lab Diamond Broken Heart Ring | IGI Certified VS1 | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 137,
+      "title": "15.05ct Lab Diamond GOAT Ring | IGI Certified VS | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 138,
+      "title": "2.55ct Lab Diamond Crimson Thorns Ring | IGI Certified VVS1 | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 140,
+      "title": "3ct Lab Diamond Cuban Weave Band | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 141,
+      "title": "5.4ct Lab Diamond Dome Ring | Pear Bezel Set | IGI Certified VVS1 | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 144,
+      "title": "5ct Lab Diamond Eternity Band | Oval Shared Prong | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 145,
+      "title": "8ct Lab Diamond Eternity Band | Round Shared Prong | IGI Certified VS+ DEF | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 146,
+      "title": "Cuban Link Ring | Solid Gold | Unisex Band | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 147,
+      "title": "6ct Lab Diamond Ring | Baguette | Statement | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 148,
+      "title": "4.9ct Lab Diamond Ring | Oval & Emerald Half Eternity | IGI Certified VS1 E | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 149,
+      "title": "8.5ct Lab Diamond Ring | Oval Five Stone | IGI Certified VS+ DEF | Ghostforge | 10K to 18K Gold | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 154,
+      "title": "1.1ct Lab Grown Diamond Cross Pendant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 155,
+      "title": "1.9ct Lab Grown Diamond Dog Tag Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 156,
+      "title": "8.25ct Lab Grown Diamond Gaming Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 157,
+      "title": "4ct Lab Grown Diamond Bando House Pendant | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 158,
+      "title": "7ct Lab Grown Diamond Boxing Gloves Pendant & Chain | IGI Certified VS | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 159,
+      "title": "3.1ct Lab Grown Diamond Bunny Pendant | IGI Certified VS+ | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 160,
+      "title": "5.6ct Lab Grown Diamond Rectangle Pendant | IGI Certified VS & VS2 Onyx | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 161,
+      "title": "5.5ct Lab Grown Diamond Redeemer Pendant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 162,
+      "title": "35.5ct Lab Grown Diamond Iconic Portrait Pendant | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 163,
+      "title": "6ct Lab Grown Diamond Virgen Guadalupe Pendant | IGI Certified VS1 | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 164,
+      "title": "8.4ct Lab Grown Diamond Shark Pendant | IGI Certified Multi-Color | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    },
+    {
+      "index": 167,
+      "title": "5.2ct Lab Grown Diamond Skull Pendant | IGI Certified VS+ DEF | Silver, 10K-18K Gold & Platinum | Draco Diamond",
+      "url": null,
+      "photos": 0
+    }
+  ],
+  "current_collection_titles_checked": 135,
+  "current_collection_titles_not_matched": [],
+  "notes": [
+    "Supplier collection snapshots reported different total counts. Products are deduplicated by their source product URL, not those displayed totals.",
+    "Every title observed in the refreshed category-page audit is matched to a product with source photos. Older broken/redirecting links are recorded separately.",
+    "Photos are linked to supplier image URLs, not downloaded locally.",
+    "Demo prices are source retail reference prices; metal/size-specific final pricing is not verified."
+  ]
+}
