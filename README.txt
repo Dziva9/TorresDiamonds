@@ -1,0 +1,1 @@
+TORRES DIAMONDS full front-end concept. Open index.html first. Pages: home, shop, product, custom, consultation, about, diamond education. Forms/cart/calendar are visual placeholders until connected to GHL/Shopify.
